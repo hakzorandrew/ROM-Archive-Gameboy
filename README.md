@@ -1,4 +1,4 @@
-# ROM-Archive-Gameboy
+# ROM Archive: Gameboy
 The Gameboy, Gameboy Color and the Gameboy Advance ROM Archive
 
 Things that you will need:
